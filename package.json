@@ -1,0 +1,42 @@
+{
+  "name": "aipdfchat",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@files-ui/react": "^1.0.8",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@material-tailwind/react": "^1.4.2",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "autoprefixer": "^10.4.15",
+    "firebase": "^9.20.0",
+    "js-cookie": "^3.0.5",
+    "pdfjs-dist": "^3.4.120",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-filepond": "^7.1.2",
+    "react-ga": "^3.3.1",
+    "react-ga4": "^2.1.0",
+    "react-hot-toast": "^2.4.1",
+    "react-loader-spinner": "^5.3.4",
+    "react-router-dom": "^6.10.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/js-cookie": "^3.0.3",
+    "@types/react": "^18.0.38",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.0"
+  }
+}
