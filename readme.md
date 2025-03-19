@@ -11,23 +11,14 @@
 
 Below is a preview of the application user interface.
 
-(![image](https://github.com/user-attachments/assets/21b5417a-ba98-4d91-8b86-886c2a18faab)
-
-
-
-
----
-
-## 🚀 Live Demo
-
-Check it out here:  [Oracle 23ai Vector Search](https://23ai.org).
+![image](https://github.com/user-attachments/assets/21b5417a-ba98-4d91-8b86-886c2a18faab)
 
 
 ---
 
 ## 🚀 Live Demo
 
-Check it out here:  ![Docability](https://docability.app)
+Check it out here:  [Docability.app](https://docability.app).
 
 ---
 
