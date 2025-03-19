@@ -11,7 +11,16 @@
 
 Below is a preview of the application user interface.
 
-![Application Preview](https://github.com/ericwarriner/docability.app/image.JPG
+(![image](https://github.com/user-attachments/assets/21b5417a-ba98-4d91-8b86-886c2a18faab)
+
+
+
+
+---
+
+## 🚀 Live Demo
+
+Check it out here:  [Oracle 23ai Vector Search](https://23ai.org).
 
 
 ---
