@@ -18,7 +18,7 @@ Below is a preview of the application user interface.
 
 ## 🚀 Live Demo
 
-Check it out here:  ![docability.app](https://docability.app)
+Check it out here:  ![Docability](https://docability.app)
 
 ---
 
